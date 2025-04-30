@@ -3,3 +3,6 @@
 .venv/
 audio_inputs/
 audio_outputs/
+.gitignore
+config.bat
+node_modules
